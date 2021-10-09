@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wang7-7
 - 👀 I’m interested in touch fish
-- 🌱 I’m currently learning block chain
+- 🌱 I’m currently learning blockchain
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
